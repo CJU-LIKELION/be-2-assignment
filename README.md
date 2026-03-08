@@ -2,7 +2,7 @@
 
 아기사자 정보를 하나의 객체로 설계하며, **클래스의 역할과 책임, 그리고 캡슐화**를 직접 경험하는 자바 프로그래밍 과제입니다.
 
-+자세한 내용은 PBL 사이트를 참고 하세요. https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481869998cc607120d4c4
+자세한 내용은 PBL 사이트를 참고 하세요. [2주차 - 객체지향 I - 클래스와 캡슐화](https://likelion-pbl-five.vercel.app/springboot/2f044860a4f481878cbdd66f54b19ce9)
 
 ## 🎯 과제 목표
 * **객체 중심 설계**: 흩어진 변수를 `Lion` 클래스로 구조화하여 객체지향의 기초를 확립합니다.
